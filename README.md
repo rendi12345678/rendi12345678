@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rendi12345678
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Company that i want
+- 💞️ I’m looking to freelance job 
 - 📫 How to reach me find my facebook : Rendi Virgantara Setiawan
 
 <!---
