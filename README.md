@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rendi Virgantara Setiawan
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Web Stack Development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to freelance job 
 - 📫 How to reach me find my facebook : Rendi Virgantara Setiawan
