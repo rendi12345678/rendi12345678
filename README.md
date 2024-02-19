@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rendi Virgantara Setiawan
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to React Front End Developer Job
+- 💞️ I’m looking to React Js Front End Web Developer Job
 
 My skills : HTML, CSS, Javascript, Node js, Express Js, React Js, and Mongo Db
 
