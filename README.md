@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rendi Virgantara Setiawan
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to React Js Front End Web Developer Job
 
 My portfolio : https://rendi-portfolio.web.app
