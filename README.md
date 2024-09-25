@@ -18,59 +18,59 @@ Hello! I'm a Full Stack Web Developer with solid experience in modern frontend f
 ---
 [![](https://visitcount.itsvg.in/api?id=rendi12345678&icon=0&color=12)](https://visitcount.itsvg.in)
 
-# Favorite Quotes
+### Favorite Quotes
 
-1. > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-   > — **Martin Fowler**
+1. <span style="color: green;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</span>  
+   <span style="color: blue;">— <strong>Martin Fowler</strong></span>
 
-2. > "The only way to go fast is to go well."  
-   > — **Donald Knuth**
+2. <span style="color: green;">"The only way to go fast is to go well."</span>  
+   <span style="color: blue;">— <strong>Donald Knuth</strong></span>
 
-3. > "Clean code always looks like it was written by someone who cares."  
-   > — **Robert C. Martin**
+3. <span style="color: green;">"Clean code always looks like it was written by someone who cares."</span>  
+   <span style="color: blue;">— <strong>Robert C. Martin</strong></span>
 
-4. > "Talk is cheap. Show me the code."  
-   > — **Linus Torvalds**
+4. <span style="color: green;">"Talk is cheap. Show me the code."</span>  
+   <span style="color: blue;">— <strong>Linus Torvalds</strong></span>
 
-5. > "Good software, like wine, takes time."  
-   > — **Steve McConnell**
+5. <span style="color: green;">"Good software, like wine, takes time."</span>  
+   <span style="color: blue;">— <strong>Steve McConnell</strong></span>
 
-6. > "I’m not a great programmer; I’m just a good programmer with great habits."  
-   > — **Kent Beck**
+6. <span style="color: green;">"I’m not a great programmer; I’m just a good programmer with great habits."</span>  
+   <span style="color: blue;">— <strong>Kent Beck</strong></span>
 
-7. > "There are only two kinds of programming languages: those people always bitch about and those nobody uses."  
-   > — **Bjarne Stroustrup**
+7. <span style="color: green;">"There are only two kinds of programming languages: those people always bitch about and those nobody uses."</span>  
+   <span style="color: blue;">— <strong>Bjarne Stroustrup</strong></span>
 
-8. > "In a world of possibilities, we have to make choices, and those choices can lead to excellence."  
-   > — **Peter Norvig**
+8. <span style="color: green;">"In a world of possibilities, we have to make choices, and those choices can lead to excellence."</span>  
+   <span style="color: blue;">— <strong>Peter Norvig</strong></span>
 
-9. > "Code is read much more than it is written."  
-   > — **Guido van Rossum**
+9. <span style="color: green;">"Code is read much more than it is written."</span>  
+   <span style="color: blue;">— <strong>Guido van Rossum</strong></span>
 
-10. > "The best way to predict the future is to invent it."  
-    > — **James Gosling**
+10. <span style="color: green;">"The best way to predict the future is to invent it."</span>  
+    <span style="color: blue;">— <strong>James Gosling</strong></span>
 
-11. > "That brain of mine is something more than merely mortal; as time will show."  
-    > — **Ada Lovelace**
+11. <span style="color: green;">"That brain of mine is something more than merely mortal; as time will show."</span>  
+    <span style="color: blue;">— <strong>Ada Lovelace</strong></span>
 
-12. > "Programming is not about typing, it's about thinking."  
-    > — **Marijn Haverbeke**
+12. <span style="color: green;">"Programming is not about typing, it's about thinking."</span>  
+    <span style="color: blue;">— <strong>Marijn Haverbeke</strong></span>
 
-13. > "Your most unhappy customers are your greatest source of learning."  
-    > — **Bill Gates**
+13. <span style="color: green;">"Your most unhappy customers are your greatest source of learning."</span>  
+    <span style="color: blue;">— <strong>Bill Gates</strong></span>
 
-14. > "The best way to get a good idea is to have a lot of ideas."  
-    > — **Jeff Atwood**
+14. <span style="color: green;">"The best way to get a good idea is to have a lot of ideas."</span>  
+    <span style="color: blue;">— <strong>Jeff Atwood</strong></span>
 
-15. > "A programming language is a tool that has a direct impact on your productivity."  
-    > — **Martin Odersky**
+15. <span style="color: green;">"A programming language is a tool that has a direct impact on your productivity."</span>  
+    <span style="color: blue;">— <strong>Martin Odersky</strong></span>
 
-16. > "The most important thing is to keep the most important thing the most important thing."  
-    > — **Chris Pine**
+16. <span style="color: green;">"The most important thing is to keep the most important thing the most important thing."</span>  
+    <span style="color: blue;">— <strong>Chris Pine</strong></span>
 
-17. > "It’s not the tool you use, but how you use it that makes the difference."  
-    > — **Ron Jeffries**
-
+17. <span style="color: green;">"It’s not the tool you use, but how you use it that makes the difference."</span>  
+    <span style="color: blue;">— <strong>Ron Jeffries</strong></span>
+    
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/rendivirgantarasetiawan) 
 
