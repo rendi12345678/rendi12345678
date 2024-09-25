@@ -18,6 +18,59 @@ Hello! I'm a Full Stack Web Developer with solid experience in modern frontend f
 ---
 [![](https://visitcount.itsvg.in/api?id=rendi12345678&icon=0&color=12)](https://visitcount.itsvg.in)
 
+# Favorite Quotes
+
+1. > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+   > — **Martin Fowler**
+
+2. > "The only way to go fast is to go well."  
+   > — **Donald Knuth**
+
+3. > "Clean code always looks like it was written by someone who cares."  
+   > — **Robert C. Martin**
+
+4. > "Talk is cheap. Show me the code."  
+   > — **Linus Torvalds**
+
+5. > "Good software, like wine, takes time."  
+   > — **Steve McConnell**
+
+6. > "I’m not a great programmer; I’m just a good programmer with great habits."  
+   > — **Kent Beck**
+
+7. > "There are only two kinds of programming languages: those people always bitch about and those nobody uses."  
+   > — **Bjarne Stroustrup**
+
+8. > "In a world of possibilities, we have to make choices, and those choices can lead to excellence."  
+   > — **Peter Norvig**
+
+9. > "Code is read much more than it is written."  
+   > — **Guido van Rossum**
+
+10. > "The best way to predict the future is to invent it."  
+    > — **James Gosling**
+
+11. > "That brain of mine is something more than merely mortal; as time will show."  
+    > — **Ada Lovelace**
+
+12. > "Programming is not about typing, it's about thinking."  
+    > — **Marijn Haverbeke**
+
+13. > "Your most unhappy customers are your greatest source of learning."  
+    > — **Bill Gates**
+
+14. > "The best way to get a good idea is to have a lot of ideas."  
+    > — **Jeff Atwood**
+
+15. > "A programming language is a tool that has a direct impact on your productivity."  
+    > — **Martin Odersky**
+
+16. > "The most important thing is to keep the most important thing the most important thing."  
+    > — **Chris Pine**
+
+17. > "It’s not the tool you use, but how you use it that makes the difference."  
+    > — **Ron Jeffries**
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/rendivirgantarasetiawan) 
 
