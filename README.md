@@ -75,7 +75,7 @@ Hello! I'm a Full Stack Web Developer with solid experience in modern frontend f
     <span style="color: blue;">— <strong>Ron Jeffries</strong></span>
     
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/rendivirgantarasetiawan) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rendivirgantarasetiawan) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
