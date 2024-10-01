@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hello! I'm a Full Stack Web Developer with solid experience in modern frontend frameworks and robust backend technologies. I am dedicated to building scalable, high-performance applications, with a strong emphasis on writing clean, maintainable, and efficient code. I strive to deliver seamless user experiences while consistently optimizing systems for performance and reliability.<br><br>💻 Technical Expertise:<br>- Frontend: Next.js, TypeScript, Tailwind CSS for responsive, interactive UIs.<br>- Backend: Rust, Node.js, Express.js, MongoDB, building secure, performant APIs.<br>- DevOps: Docker, Docker Compose for scalable deployments.<br>- Environment: Arch Linux, Neovim, Tmux, I3 WM, and Zsh for optimized workflows.<br><br>🌟 Core Competencies:<br>- Full-Stack Development: Crafting dynamic, visually compelling applications with Next.js, TypeScript, and Rust.<br>- Performance Optimization: Building scalable, high-performance backends.<br>- DevOps Integration: Streamlining pipelines with Docker for efficient delivery.<br>- Workflow Optimization: Maximizing productivity with custom setups.<br><br>🚀 Current Focus:<br>- Developing a cafe management system using Next.js, TypeScript, Tailwind, and MongoDB.<br>- Exploring Rust backend optimizations and MongoDB scaling.<br>- Enhancing Docker Compose deployments for seamless orchestration.
+Hello! I'm a Full Stack Web Developer who enjoys building and creating innovative solutions using modern frontend frameworks and robust backend technologies. I’m passionate about developing scalable, high-performance applications while emphasizing clean, maintainable, and efficient code. My goal is to deliver seamless user experiences and optimize systems for performance and reliability. I am continually exploring ways to integrate technology and innovative solutions with web development and robotics.
 
+💻 Technical Expertise:
+- Frontend: Next.js, TypeScript, Tailwind CSS for responsive, interactive UIs.
+- Backend: Rust, Node.js, Express.js, MongoDB, building secure, performant APIs.
+- DevOps: Docker, Docker Compose for scalable deployments.
+- Environment: Arch Linux, Neovim, Tmux, I3 WM, and Zsh for optimized workflows.
+
+🌟 Core Competencies:
+- Full-Stack Development: Crafting dynamic, visually compelling applications with Next.js, TypeScript, and Rust.
+- Performance Optimization: Building scalable, high-performance backends.
+- DevOps Integration: Streamlining pipelines with Docker for efficient delivery.
+- Workflow Optimization: Maximizing productivity with custom setups.
+
+🚀 Current Focus:
+- Developing a cafe management system using Next.js, TypeScript, Tailwind, and MongoDB.
+- Learning robotics with C to expand my technical skill set and explore innovative solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
