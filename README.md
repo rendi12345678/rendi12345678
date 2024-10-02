@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a Full Stack Web Developer who enjoys building and creating innovative solutions using modern frontend frameworks and robust backend technologies. I’m passionate about developing scalable, high-performance applications while emphasizing clean, maintainable, and efficient code. My goal is to deliver seamless user experiences and optimize systems for performance and reliability. I am continually exploring ways to integrate technology and innovative solutions with web development and robotics.
+Hello! I'm a Full Stack Web Developer who enjoys building and creating innovative solutions using modern frontend frameworks and robust backend technologies. I’m passionate about developing scalable, high-performance applications while emphasizing clean, maintainable, and efficient code. My goal is to deliver seamless user experiences and optimize systems for performance and reliability. I am continually exploring ways to integrate technology and innovative solutions with web development field.
 
 💻 Technical Expertise:
 - Frontend: Next.js, TypeScript, Tailwind CSS for responsive, interactive UIs.
@@ -15,7 +15,7 @@ Hello! I'm a Full Stack Web Developer who enjoys building and creating innovativ
 
 🚀 Current Focus:
 - Developing a cafe management system using Next.js, TypeScript, Tailwind, and MongoDB.
-- Learning robotics with C to expand my technical skill set and explore innovative solutions.
+- Learning Cyber Security
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
