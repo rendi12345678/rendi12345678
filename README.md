@@ -1,21 +1,4 @@
-# 💫 About Me:
-Hello! I'm a Full Stack Web Developer who enjoys building and creating innovative solutions using modern frontend frameworks and robust backend technologies. I’m passionate about developing scalable, high-performance applications while emphasizing clean, maintainable, and efficient code. My goal is to deliver seamless user experiences and optimize systems for performance and reliability. I am continually exploring ways to integrate technology and innovative solutions with web development field.
-
-💻 Technical Expertise:
-- Frontend: Next.js, TypeScript, Tailwind CSS for responsive, interactive UIs.
-- Backend: Rust, Node.js, Express.js, MongoDB, building secure, performant APIs.
-- DevOps: Docker, Docker Compose for scalable deployments.
-- Environment: Arch Linux, Neovim, Tmux, I3 WM, and Zsh for optimized workflows.
-
-🌟 Core Competencies:
-- Full-Stack Development: Crafting dynamic, visually compelling applications with Next.js, TypeScript, and Rust.
-- Performance Optimization: Building scalable, high-performance backends.
-- DevOps Integration: Streamlining pipelines with Docker for efficient delivery.
-- Workflow Optimization: Maximizing productivity with custom setups.
-
-🚀 Current Focus:
-- Developing a cafe management system using Next.js, TypeScript, Tailwind, and MongoDB.
-- Learning Cyber Security
+# Jack of all trades master atleast one, i like Web Development, AI, IoT, Cyber Security
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
