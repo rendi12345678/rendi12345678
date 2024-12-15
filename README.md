@@ -1,4 +1,4 @@
-# Jack of all trades master atleast one, i like Web Development, AI, IoT, and Cyber Security
+# Jack of all trades, master atleast one, i like Web Development, AI, IoT, and Cyber Security
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
