@@ -1,6 +1,6 @@
 # Jack of all trades, master atleast one
 
-I tried Full Stack Development, now i love malware analysis
+I like Web Development and Cyber Security
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
