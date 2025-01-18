@@ -1,6 +1,6 @@
 # Jack of all trades, master atleast one
 
-I like Web Development and Cyber Security
+Full-Stack Developer specializing in Next.js, with experience in building scalable, maintainable, and high-performance app solutions. Currently in my first year of college, I am also an expert at TypeScript, Tailwind CSS, and MongoDB. I use Tauri to build cross-device apps for mobile, web, and desktop. Passionate about crafting seamless user experiences, securing web applications, and exploring new technologies like Web3 and AI. Always eager to collaborate and build innovative projects
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rendi.v.setiawan.9) 
